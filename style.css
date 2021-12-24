@@ -1,11 +1,11 @@
 #initialBoard {
     float: left;
-    margin-left: 30%;
+    margin-left: 20%;
     /* margin-top: 10%; */
 }
 
 #answerBoard {
-    margin-right: 30%;
+    margin-right: 20%;
     float: right;
     /* margin-top: 10%; */
 }
