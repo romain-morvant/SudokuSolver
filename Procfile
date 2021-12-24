@@ -1,0 +1,1 @@
+web: node ./js/sudoku.js
